@@ -1,2 +1,3 @@
 coucou c moi
-je continue mon test...
+J'ai retiré la 2ième ligne
+Puis remis la 3
